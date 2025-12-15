@@ -78,7 +78,7 @@ Attackers can leverage MCP capabilities to probe internal networks, identify ser
 ---
 
 ## Summary
-Integrating Playwright MCP Server introduces storage, compute, and network risks that can compromise confidentiality, integrity, and availability. Services hosting MCP must implement strict network and compute isolation, input validation, access controls, and continuous monitoring to mitigate these risks.
+Integrating Playwright MCP Server introduces storage, compute, and network risks that can compromise confidentiality, integrity, and availability. Services hosting the MCP server must implement strict network and compute isolation, input validation, access controls, and continuous monitoring to mitigate these risks.
 
 ---
 
